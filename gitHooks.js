@@ -1,1 +1,2 @@
-console.log("inside gitHooks")
+const dummyCode = "dummyCode";
+console.log("inside gitHooks");
